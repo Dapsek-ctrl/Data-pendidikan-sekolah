@@ -68,7 +68,7 @@ const dataSekolah = [
         nama: "SD LabSchool Jakarta", 
         akreditasi: "A", 
         lokasi: "Rawamangun, Jakarta Timur", 
-        gambar: "https://www.sdinpresbontoa.net/wp-content/uploads/2025/03/MengenalSekolahDasarLabschoolJakarta-ezgif.com-resize.jpg",
+        gambar: "https://lh3.googleusercontent.com/p/AF1QipMzp0RIgzqfbE9LEQu-XhzlIZv0u25DQWg3XIUR=s1360-w1360-h1020-rw",
         web: "https://labschoolfipumj.sch.id/sd-labschool-fipumj/"
     }
 ];
